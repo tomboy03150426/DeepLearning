@@ -1,8 +1,8 @@
 # Reference 
 https://github.com/ahlashkari/AndroidAppLyzer/blob/master/Deep%20Image%20Learning/CNN_model.py
 
-主要修改模型結構以及不同前處理方式，上傳的比較倉促，會找時間用diff生成patch。
-
+主要修改 : 模型結構、不同前處理方式、各項參數。
+上傳的比較倉促，會找時間用diff生成patch。
 
 # IDE
 Pycahrm with Anaconda
